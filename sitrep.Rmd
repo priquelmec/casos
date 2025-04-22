@@ -1,1 +1,3 @@
-Comparar la tasa de ataque en diferentes grupos 
+Comparar la tasa de ataque en diferentes grupos
+Para identificar grupos a priorizar en intervencion
+Usar paquetes (sf) para leer informacion especial
